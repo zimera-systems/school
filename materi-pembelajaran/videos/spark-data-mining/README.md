@@ -6,7 +6,7 @@ Materi pembelajaran ini membahas penggunakan Apache Spark (dan beberapa pustaka 
 
 Materi:
 
-  * [Slide](01--mengenal-data-mining.pdf).
+  * [Slide](01--spark-data-mining.pdf).
   * [Kode sumber dan data](src/).
   * [Link Video](https://www.youtube.com/watch?v=B0C80Njr9Zs):
 
