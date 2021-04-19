@@ -21,7 +21,9 @@ Materi:
 Materi:
 
   * [Slide](slides/02--py-spark-data-mining.pdf).
-  * [Contoh perhitungan manual](slides/02--perhitungan-manual-kmeans.pdf).
+  * Contoh perhitungan manual:
+    * [Format PDF](slides/02--perhitungan-manual-kmeans.pdf).
+    * [Format ODS - OpenDocument SpreadSheet](slides/02--perhitungan-manual-kmeans.ods). Gunakan [LibreOffice](https://www.libreoffice.org/) untuk membuka file **.ods**.
   * [Kode sumber, data, dan hasil](src/02/).
   * [Python Jupyter Notebook](src/02/02--k-means-python.ipynb).
   * [Python Jupyter Notebook - versi PDF](src/02/02--k-means-python.pdf).
