@@ -6,7 +6,7 @@ Materi pembelajaran ini membahas penggunakan Python dan Apache Spark (dan bebera
 
 Materi:
 
-  * [Slide](slides/01--spark-data-mining.pdf).
+  * [Slide](slides/01--py-spark-data-mining.pdf).
   * [Kode sumber dan data](src/01/).
   * [Link Video](https://www.youtube.com/watch?v=B0C80Njr9Zs):
 
@@ -20,7 +20,7 @@ Materi:
 
 Materi:
 
-  * Slide
+  * [Slide](slides/02--py-spark-data-mining.pdf).
   * [Contoh perhitungan manual](slides/02--perhitungan-manual-kmeans.pdf).
   * [Kode sumber, data, dan hasil](src/02/).
   * [Python Jupyter Notebook](src/02/02--k-means-python.ipynb).
