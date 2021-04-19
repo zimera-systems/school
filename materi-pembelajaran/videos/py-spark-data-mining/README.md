@@ -26,11 +26,11 @@ Materi:
   * [Python Jupyter Notebook](src/02/02--k-means-python.ipynb).
   * [Python Jupyter Notebook - versi PDF](src/02/02--k-means-python.pdf).
   * Data diambil dari [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
-  * Link Video
+  * [Link Video](https://www.youtube.com/watch?v=aerT_kJN5cc)
 
 <div align="left">
-      <a href="https://www.youtube.com/watch?v=B0C80Njr9Zs">
-         <img src="https://img.youtube.com/vi/B0C80Njr9Zs/0.jpg" style="width:100%;">
+      <a href="https://www.youtube.com/watch?v=aerT_kJN5cc">
+         <img src="https://img.youtube.com/vi/aerT_kJN5cc/0.jpg" style="width:100%;">
       </a>
 </div>
 
