@@ -2,7 +2,7 @@
 
 # Materi Pembelajaran
 
-Repo ini berisi berbagai materi pembelajaran di **Zimera - School of Software and Data Technologies**. Sekolah di Zimera tidak dimaksudkan untuk mengganti sekolah formal, tidak juga dimaksudkan untuk mempertajam dikotomi antara sekolah formal dengan non-formal. Bersekolah disini hanya membedakan antara siswa dengan *skill*, mentalitas, dan pengetahuan yang memadai dan yang tidak. *So, take this with precautions. Nobody should ever bash anything or anyone*.
+Repo ini berisi berbagai materi pembelajaran di **Zimera - School of Maker in Software and Data Technologies**. Sekolah di Zimera tidak dimaksudkan untuk mengganti sekolah formal, tidak juga dimaksudkan untuk mempertajam dikotomi antara sekolah formal dengan non-formal. Bersekolah disini hanya membedakan antara siswa dengan *skill*, mentalitas, dan pengetahuan yang memadai dan yang tidak. *So, take this with precautions. Nobody should ever bash anything or anyone*.
 
 ## Peta Pembelajaran
 
@@ -46,7 +46,8 @@ Materi yang terdapat pada sekolah ini awalnya berada pada Praxis Academy dan dik
 
 **Dr. Bambang Purnomosidi D. P.**  
 **_Zimera Systems_**  
-Dusun Medelan, Umbulmartani, Ngemplak  
+Dusun Medelan - RT 01 
+Umbulmartani, Ngemplak  
 Sleman, DIY  
 https://www.google.com/maps/place/Zimera+Systems/@-7.6975303,110.43921,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5d7cc40e8871:0x2d44da15f0b3781e!8m2!3d-7.6975303!4d110.4413987  
-E-mail: zimera-systems@gmail.com
+E-mail: zimera.systems@gmail.com
