@@ -1,6 +1,6 @@
 # Zimera - School of Maker in Software and Data Technologies
 
-![Zimera Systems' Logo](img/logo.png)
+<img src="img/logo.png" alt="Zimera Systems' Logo">
 
 Repo ini digunakan untuk segala hal yang terkait dengan salah satu aktivitas di Zimera Systems yaitu **School of Maker in Softwware and Data Technologies**. Para pembelajar yang menginginkan untuk mempelajari teknologi software dan data di Zimera Systems bisa mulai dari [Panduan Umum](panduan-umum/). Setelah itu bisa masuk ke [Materi Pembelajaran](materi-pembelajaran).
 
